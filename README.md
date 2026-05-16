@@ -144,8 +144,7 @@ Django • PostgreSQL • Docker • Gemini API
 ---
 
 ⭐ Always open to collaborating on AI, ML, backend, and open-source projects.
-## 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://github.com/KushagraB424/KushagraB424/blob/output/github-contribution-grid-snake-dark.svg" />
+  <img src="https://raw.githubusercontent.com/KushagraB424/KushagraB424/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 </p>
