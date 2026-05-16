@@ -56,6 +56,10 @@ B.Tech CSE (AI & ML) student at Manipal Institute of Technology with a strong in
 ## TaskMates – Home Services Marketplace
 [View Code](https://github.com/KushagraB424/TaskMate) | [Live Demo](https://taskmate-68tu.onrender.com/)
 
+<p align="center">
+  <img src="https://github.com/KushagraB424/KushagraB424/raw/main/taskmate_trial.png" width="800" />
+</p>
+
 Containerized full-stack marketplace platform with AI-powered service discovery.
 
 ### Tech
@@ -71,6 +75,10 @@ Django • PostgreSQL • Docker • Gemini API
 
 ## AI Research Assistant
 [View Code](https://github.com/KushagraB424/Research_Assistant) | [Live Demo](https://research-assistant-frontend-2cm4.onrender.com/)
+
+<p align="center">
+  <img src="https://github.com/KushagraB424/KushagraB424/raw/main/research_assistant_trial.png" width="800" />
+</p>
 
 RAG-based research assistant that allows users to upload PDFs and perform context-aware semantic search and question answering.
 
@@ -88,6 +96,10 @@ React • Node.js • MongoDB • Gemini Embeddings • RAG
 ## Fashion Vision AI – Multi-Object Fashion Segmentation & Agentic Shopping
 [View Code](https://github.com/KushagraB424/visual-product-search) | [Live Demo](https://visual-product-search-idjp.onrender.com/)
 
+<p align="center">
+  <img src="https://github.com/KushagraB424/KushagraB424/raw/main/fashion_search_trial.png" width="800" />
+</p>
+
 AI-powered fashion understanding pipeline using object detection, segmentation, and LLM-powered recommendations.
 
 ### Tech
@@ -103,6 +115,10 @@ YOLOv8 • EfficientNet • PyTorch • FastAPI • OpenRouter
 
 ## SafePay – Secure Payment System
 [View Code](https://github.com/Saksham-Gupta-GH/safepay) | [Live Demo](https://safepay-7cyg.onrender.com/)
+
+<p align="center">
+  <img src="https://github.com/KushagraB424/KushagraB424/raw/main/safepay_trial.png" width="800" />
+</p>
 
 Secure payment platform with fraud detection and encrypted transaction handling.
 
