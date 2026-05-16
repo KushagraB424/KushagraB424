@@ -164,3 +164,7 @@ Always open to collaborating on AI, ML, backend, and open-source projects.
 <p align="center">
   <img src="https://raw.githubusercontent.com/KushagraB424/KushagraB424/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 </p>
+
+<p align="center">
+  <img src="https://github.com/KushagraB424/KushagraB424/raw/main/typer_gif.gif" alt="Typing Animation" />
+</p>
