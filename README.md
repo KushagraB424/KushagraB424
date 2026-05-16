@@ -54,6 +54,8 @@ B.Tech CSE (AI & ML) student at Manipal Institute of Technology with a strong in
 # 📌 Featured Projects
 
 ## 🧠 AI Research Assistant
+[View Code](https://github.com/KushagraB424/YOUR_REPO_NAME) | [Live Demo](https://research-assistant-frontend-2cm4.onrender.com/)
+
 RAG-based research assistant that allows users to upload PDFs and perform context-aware semantic search and question answering.
 
 ### Tech
@@ -67,20 +69,9 @@ React • Node.js • MongoDB • Gemini Embeddings • RAG
 
 ---
 
-## ✍️ Handwritten Equation Solver
-Computer vision system that recognizes and solves handwritten mathematical equations.
+## 👕 Fashion Vision AI – Multi-Object Fashion Segmentation & Agentic Shopping
+[View Code](https://github.com/KushagraB424/YOUR_REPO_NAME) | [Live Demo](https://visual-product-search-idjp.onrender.com/)
 
-### Tech
-Python • OpenCV • Machine Learning
-
-### Highlights
-- Equation recognition pipeline
-- Image preprocessing and segmentation
-- Mathematical expression solving
-
----
-
-## 👕 Multi-Object Fashion Segmentation & Agentic Shopping
 AI-powered fashion understanding pipeline using object detection, segmentation, and LLM-powered recommendations.
 
 ### Tech
@@ -95,6 +86,8 @@ YOLOv8 • EfficientNet • PyTorch • FastAPI • OpenRouter
 ---
 
 ## 💳 SafePay – Secure Payment System
+[View Code](https://github.com/KushagraB424/YOUR_REPO_NAME) | [Live Demo](https://safepay-7cyg.onrender.com/)
+
 Secure payment platform with fraud detection and encrypted transaction handling.
 
 ### Tech
@@ -109,6 +102,8 @@ Flask • MongoDB • AES-256 • Machine Learning
 ---
 
 ## 🏠 TaskMates – Home Services Marketplace
+[View Code](https://github.com/KushagraB424/YOUR_REPO_NAME) | [Live Demo](https://taskmate-68tu.onrender.com/)
+
 Containerized full-stack marketplace platform with AI-powered service discovery.
 
 ### Tech
