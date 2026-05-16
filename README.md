@@ -5,7 +5,7 @@
   <img src="https://github.com/KushagraB424/KushagraB424/raw/main/kushagra_coder.gif" width="850" />
 </p>
 
-# Hi, I'm Kushagra Gupta 👋
+# Hi, I'm Kushagra Gupta
 
 ### AI/ML Engineer • Full Stack Developer • Computer Vision Enthusiast
 
@@ -18,17 +18,17 @@ B.Tech CSE (AI & ML) student at Manipal Institute of Technology with a strong in
 
 ---
 
-## 🚀 About Me
+## About Me
 
-- 🎓 CGPA: **9.33/10**
-- 🏆 Achiever Scholarship Recipient (Top 5% at MIT Manipal)
-- 💻 Solved **250+ LeetCode problems**
-- ⚡ Building AI-powered full-stack applications
-- 🔍 Interested in scalable ML systems, RAG pipelines, and backend engineering
+- CGPA: **9.33/10**
+- Achiever Scholarship Recipient (Top 5% at MIT Manipal)
+- Solved **250+ LeetCode problems**
+- Building AI-powered full-stack applications
+- Interested in scalable ML systems, RAG pipelines, and backend engineering
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 ### Languages
 `Python` `Java` `C++` `JavaScript` `SQL` `Go`
@@ -51,58 +51,10 @@ B.Tech CSE (AI & ML) student at Manipal Institute of Technology with a strong in
 
 ---
 
-# 📌 Featured Projects
+# Featured Projects
 
-## 🧠 AI Research Assistant
-[View Code](https://github.com/KushagraB424/YOUR_REPO_NAME) | [Live Demo](https://research-assistant-frontend-2cm4.onrender.com/)
-
-RAG-based research assistant that allows users to upload PDFs and perform context-aware semantic search and question answering.
-
-### Tech
-React • Node.js • MongoDB • Gemini Embeddings • RAG
-
-### Highlights
-- Semantic retrieval over 100+ page PDFs
-- Chunked vector search pipeline
-- Real-time query processing
-- Sub-second response latency
-
----
-
-## 👕 Fashion Vision AI – Multi-Object Fashion Segmentation & Agentic Shopping
-[View Code](https://github.com/KushagraB424/YOUR_REPO_NAME) | [Live Demo](https://visual-product-search-idjp.onrender.com/)
-
-AI-powered fashion understanding pipeline using object detection, segmentation, and LLM-powered recommendations.
-
-### Tech
-YOLOv8 • EfficientNet • PyTorch • FastAPI • OpenRouter
-
-### Highlights
-- Multi-object garment segmentation
-- 15+ clothing categories
-- Agentic shopping recommendations
-- ~78% mAP validation performance
-
----
-
-## 💳 SafePay – Secure Payment System
-[View Code](https://github.com/KushagraB424/YOUR_REPO_NAME) | [Live Demo](https://safepay-7cyg.onrender.com/)
-
-Secure payment platform with fraud detection and encrypted transaction handling.
-
-### Tech
-Flask • MongoDB • AES-256 • Machine Learning
-
-### Highlights
-- ML-based fraud detection
-- AES-256 encryption
-- Concurrent transaction handling
-- Role-based authentication
-
----
-
-## 🏠 TaskMates – Home Services Marketplace
-[View Code](https://github.com/KushagraB424/YOUR_REPO_NAME) | [Live Demo](https://taskmate-68tu.onrender.com/)
+## TaskMates – Home Services Marketplace
+[View Code](https://github.com/KushagraB424/TaskMate) | [Live Demo](https://taskmate-68tu.onrender.com/)
 
 Containerized full-stack marketplace platform with AI-powered service discovery.
 
@@ -117,7 +69,55 @@ Django • PostgreSQL • Docker • Gemini API
 
 ---
 
-# 📈 GitHub Stats
+## AI Research Assistant
+[View Code](https://github.com/KushagraB424/Research_Assistant) | [Live Demo](https://research-assistant-frontend-2cm4.onrender.com/)
+
+RAG-based research assistant that allows users to upload PDFs and perform context-aware semantic search and question answering.
+
+### Tech
+React • Node.js • MongoDB • Gemini Embeddings • RAG
+
+### Highlights
+- Semantic retrieval over 100+ page PDFs
+- Chunked vector search pipeline
+- Real-time query processing
+- Sub-second response latency
+
+---
+
+## Fashion Vision AI – Multi-Object Fashion Segmentation & Agentic Shopping
+[View Code](https://github.com/KushagraB424/visual-product-search) | [Live Demo](https://visual-product-search-idjp.onrender.com/)
+
+AI-powered fashion understanding pipeline using object detection, segmentation, and LLM-powered recommendations.
+
+### Tech
+YOLOv8 • EfficientNet • PyTorch • FastAPI • OpenRouter
+
+### Highlights
+- Multi-object garment segmentation
+- 15+ clothing categories
+- Agentic shopping recommendations
+- ~78% mAP validation performance
+
+---
+
+## SafePay – Secure Payment System
+[View Code](https://github.com/Saksham-Gupta-GH/safepay) | [Live Demo](https://safepay-7cyg.onrender.com/)
+
+Secure payment platform with fraud detection and encrypted transaction handling.
+
+### Tech
+Flask • MongoDB • AES-256 • Machine Learning
+
+### Highlights
+- ML-based fraud detection
+- AES-256 encryption
+- Concurrent transaction handling
+- Role-based authentication
+
+---
+
+# GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=KushagraB424&show_icons=true&theme=tokyonight" height="170"/>
@@ -126,7 +126,7 @@ Django • PostgreSQL • Docker • Gemini API
 
 ---
 
-# 🏆 Achievements
+# Achievements
 
 - Achiever Scholarship Recipient (Top 5%)
 - Finalist — MIT Open Coding Challenge
@@ -135,7 +135,7 @@ Django • PostgreSQL • Docker • Gemini API
 
 ---
 
-# 📫 Connect With Me
+# Connect With Me
 
 - LinkedIn: www.linkedin.com/in/kushagra-gupta-8861663a0/
 - GitHub: github.com/KushagraB424
@@ -143,7 +143,7 @@ Django • PostgreSQL • Docker • Gemini API
 
 ---
 
-⭐ Always open to collaborating on AI, ML, backend, and open-source projects.
+Always open to collaborating on AI, ML, backend, and open-source projects.
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/KushagraB424/KushagraB424/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
