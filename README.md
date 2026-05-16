@@ -1,16 +1,144 @@
-## Hi there 👋
+# Hi, I'm Kushagra Gupta 👋
 
-<!--
-**KushagraB424/KushagraB424** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### AI/ML Engineer • Full Stack Developer • Computer Vision Enthusiast
 
-Here are some ideas to get you started:
+B.Tech CSE (AI & ML) student at Manipal Institute of Technology with a strong interest in:
+- Artificial Intelligence & Machine Learning
+- Full Stack Development
+- Computer Vision
+- Distributed Systems
+- Large Language Models (LLMs)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 About Me
+
+- 🎓 CGPA: **9.33/10**
+- 🏆 Achiever Scholarship Recipient (Top 5% at MIT Manipal)
+- 💻 Solved **250+ LeetCode problems**
+- ⚡ Building AI-powered full-stack applications
+- 🔍 Interested in scalable ML systems, RAG pipelines, and backend engineering
+
+---
+
+## 🛠️ Tech Stack
+
+### Languages
+`Python` `Java` `C++` `JavaScript` `SQL` `Go`
+
+### AI / Machine Learning
+`PyTorch` `TensorFlow` `Scikit-learn` `OpenCV` `NLP`
+`LLMs` `RAG` `Computer Vision`
+
+### Backend / Web
+`FastAPI` `Flask` `Django` `Node.js`
+`REST APIs` `JWT Authentication`
+
+### Databases & Cloud
+`MongoDB` `PostgreSQL` `SQLite`
+`Docker` `Kubernetes` `Google Cloud`
+
+### Tools
+`Git` `GitHub` `Linux` `VS Code`
+`IntelliJ IDEA` `Streamlit`
+
+---
+
+# 📌 Featured Projects
+
+## 🧠 AI Research Assistant
+RAG-based research assistant that allows users to upload PDFs and perform context-aware semantic search and question answering.
+
+### Tech
+React • Node.js • MongoDB • Gemini Embeddings • RAG
+
+### Highlights
+- Semantic retrieval over 100+ page PDFs
+- Chunked vector search pipeline
+- Real-time query processing
+- Sub-second response latency
+
+---
+
+## ✍️ Handwritten Equation Solver
+Computer vision system that recognizes and solves handwritten mathematical equations.
+
+### Tech
+Python • OpenCV • Machine Learning
+
+### Highlights
+- Equation recognition pipeline
+- Image preprocessing and segmentation
+- Mathematical expression solving
+
+---
+
+## 👕 Multi-Object Fashion Segmentation & Agentic Shopping
+AI-powered fashion understanding pipeline using object detection, segmentation, and LLM-powered recommendations.
+
+### Tech
+YOLOv8 • EfficientNet • PyTorch • FastAPI • OpenRouter
+
+### Highlights
+- Multi-object garment segmentation
+- 15+ clothing categories
+- Agentic shopping recommendations
+- ~78% mAP validation performance
+
+---
+
+## 💳 SafePay – Secure Payment System
+Secure payment platform with fraud detection and encrypted transaction handling.
+
+### Tech
+Flask • MongoDB • AES-256 • Machine Learning
+
+### Highlights
+- ML-based fraud detection
+- AES-256 encryption
+- Concurrent transaction handling
+- Role-based authentication
+
+---
+
+## 🏠 TaskMates – Home Services Marketplace
+Containerized full-stack marketplace platform with AI-powered service discovery.
+
+### Tech
+Django • PostgreSQL • Docker • Gemini API
+
+### Highlights
+- Conversational AI chatbot
+- Transaction-safe booking workflows
+- RBAC implementation
+- Dockerized deployment
+
+---
+
+# 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=KushagraB424&show_icons=true&theme=tokyonight" height="170"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=KushagraB424&theme=tokyonight" height="170"/>
+</p>
+
+---
+
+# 🏆 Achievements
+
+- Achiever Scholarship Recipient (Top 5%)
+- Finalist — MIT Open Coding Challenge
+- 250+ LeetCode Problems Solved
+- Google Cloud Digital Leader Certified
+
+---
+
+# 📫 Connect With Me
+
+- LinkedIn: www.linkedin.com/in/kushagra-gupta-8861663a0/
+- GitHub: github.com/KushagraB424
+- Email: kushagrab424@gmail.com
+
+---
+
+⭐ Always open to collaborating on AI, ML, backend, and open-source projects.
