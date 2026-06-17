@@ -20,9 +20,9 @@ B.Tech CSE (AI & ML) student at Manipal Institute of Technology with a strong in
 
 ## About Me
 
-- CGPA: **9.33/10**
+- CGPA: **9.3/10**
 - Achiever Scholarship Recipient (Top 5% at MIT Manipal)
-- Solved **250+ LeetCode problems**
+- Solved **300+ LeetCode problems**
 - Building AI-powered full-stack applications
 - Interested in scalable ML systems, RAG pipelines, and backend engineering
 
@@ -31,27 +31,79 @@ B.Tech CSE (AI & ML) student at Manipal Institute of Technology with a strong in
 ## Tech Stack
 
 ### Languages
-`Python` `Java` `C++` `JavaScript` `SQL` `Go`
+`Python` `Java` `C` `C++` `JavaScript` `SQL` `Go`
 
-### AI / Machine Learning
-`PyTorch` `TensorFlow` `Scikit-learn` `OpenCV` `NLP`
-`LLMs` `RAG` `Computer Vision`
+### AI / ML
+`Machine Learning` `Deep Learning` `PyTorch` `TensorFlow` `Scikit-learn`
+`Keras` `Computer Vision` `NLP` `RAG`
+`LLMs` `CUDA` `NumPy` `Pandas`
 
 ### Backend / Web
-`FastAPI` `Flask` `Django` `Node.js`
-`REST APIs` `JWT Authentication`
+`React` `Node.js` `Express.js`
+`FastAPI` `Flask` `Django`
+`REST APIs` `JWT Auth`
+`HTML` `CSS`
 
-### Databases & Cloud
-`MongoDB` `PostgreSQL` `SQLite`
-`Docker` `Kubernetes` `Google Cloud`
+### Big Data / Cloud
+`AWS` `Google Cloud`
+`Apache Spark`
+`PySpark`
+`Hadoop`
+`Distributed Systems`
+`ETL Pipelines`
+
+### Databases
+`MongoDB`
+`PostgreSQL`
+`SQLite`
+`NoSQL`
 
 ### Tools
-`Git` `GitHub` `Linux` `VS Code`
-`IntelliJ IDEA` `Streamlit`
+`Git` `Docker` `Kubernetes`
+`Linux` `VS Code`
+`IntelliJ`
+`Streamlit`
+`Colab`
 
 ---
 
 # Featured Projects
+
+## NextFlow – Visual AI Workflow Orchestrator
+[GitHub](https://github.com/KushagraB424/NextFlow) | [GitLab](https://gitlab.com/kushagrab424-group/nextflow) | [Live Demo](https://nextflow-gamma-sable.vercel.app/)
+
+<p align="center">
+  <img src="rag_trial.png" width="800" />
+</p>
+
+Full-stack visual AI workflow orchestrator allowing users to dynamically construct and execute multi-step pipeline DAGs.
+
+### Tech
+Next.js 15 • React Flow • LLM • RAG • PostgreSQL • Gemini
+
+### Highlights
+- Drag-and-drop interactive canvas
+- State management and real-time telemetry
+- Event-driven backend execution
+- Retrieval-Augmented Generation (RAG) pipeline
+
+## Lantern – Agentic Business Intelligence Platform
+[GitHub](https://github.com/KushagraB424/Lantern) | [GitLab](https://gitlab.com/kushagrab424-group/lantern) | [Live Demo](https://lantern-three-beta.vercel.app/)
+
+<p align="center">
+  <img src="lantern_trial.png" width="800" />
+</p>
+
+Agentic Business Intelligence platform using LangGraph to transform datasets into insights.
+
+### Tech
+LangGraph • PostgreSQL • Python • Pandas • FastAPI
+
+### Highlights
+- Multi-agent workflow with human-in-the-loop approval
+- State management and PostgreSQL checkpointing
+- Secure Python execution sandbox for automated data analysis
+- RAG and semantic memory using text embeddings
 
 ## TaskMates – Home Services Marketplace
 [View Code](https://github.com/KushagraB424/TaskMate) | [Live Demo](https://taskmate-68tu.onrender.com/)
