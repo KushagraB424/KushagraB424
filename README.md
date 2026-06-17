@@ -12,6 +12,7 @@
 B.Tech CSE (AI & ML) student at Manipal Institute of Technology with a strong interest in:
 - Artificial Intelligence & Machine Learning
 - Full Stack Development
+- GenAI Engineer
 - Computer Vision
 - Distributed Systems
 - Large Language Models (LLMs)
@@ -184,6 +185,23 @@ Flask • MongoDB • AES-256 • Machine Learning
 - Role-based authentication
 
 ---
+## LogInsight – Distributed Log Analysis System
+[GitHub](https://github.com/KushagraB424/Log_Analyst) | [Live Demo](https://loganalyst-kushagra-gupta.streamlit.app/)
+
+<p align="center">
+  <img src="loginsight_trial.png" width="800" alt="LogInsight Dashboard" />
+</p>
+
+Distributed log analysis system using PySpark to process web server access logs with an interactive AI-powered dashboard.
+
+### Tech
+PySpark • Streamlit • Python • Plotly • Gemini API
+
+### Highlights
+- Distributed data processing pipeline using Apache Spark
+- Interactive log explorer and visualization dashboard
+- Statistical anomaly detection for server requests
+- AI-powered log insights and summarization via Gemini
 
 # GitHub Stats
 
@@ -208,14 +226,13 @@ Flask • MongoDB • AES-256 • Machine Learning
 - LinkedIn: www.linkedin.com/in/kushagra-gupta-8861663a0/
 - GitHub: github.com/KushagraB424
 - Email: kushagrab424@gmail.com
+- GitLab: https://gitlab.com/kushagrab424
+- Leetcode: https://leetcode.com/u/KushagraB424/
 
 ---
 
 Always open to collaborating on AI, ML, backend, and open-source projects.
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/KushagraB424/KushagraB424/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
-</p>
 
 <p align="center">
   <img src="https://github.com/KushagraB424/KushagraB424/raw/main/typer_gif.gif" alt="Typing Animation" />
